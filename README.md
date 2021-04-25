@@ -1,7 +1,11 @@
-1. MySQL Dowonload : https://dev.mysql.com/downloads/installer/
+1. MySQL 다운로드 : https://dev.mysql.com/downloads/installer/
 
-2. MySQL Setup (MySQL Command Line Client) : https://opentutorials.org/module/3560/21175
+2. MySQL 설치
 
-3. Project Setup (VSCode Terminal) : npm install or npm i
+- Authentication Method 옵션: Use Legacy Authentication Method 선택 (필수!!)
 
-4. Project Nodemon Start (VSCode Terminal) : npm run dev
+2. MySQL 설정 (MySQL Command Line Client) : https://opentutorials.org/module/3560/21175
+
+3. Project 설정 (VSCode Terminal) : npm install or npm i
+
+4. Project 실행 (VSCode Terminal) : npm run dev
