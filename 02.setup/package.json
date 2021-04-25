@@ -1,11 +1,8 @@
 {
-  "name": "nodejs",
+  "name": "learn-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "directories": {
-    "lib": "lib"
-  },
   "scripts": {
     "dev": "nodemon"
   },

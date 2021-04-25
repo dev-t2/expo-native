@@ -4,7 +4,7 @@ const fs = require('fs').promises;
 const qs = require('querystring');
 const sanitizeHtml = require('sanitize-html');
 
-const template = require('./lib/template');
+const template = require('./utils/template');
 
 const PORT = 3000;
 const BASE_URL = `http://localhost:${PORT}`;
