@@ -1,5 +1,5 @@
 const list = ({ list }) => {
-  return list.map(li => `<li><a href="/?id=${li.title}">${li.title}</a></li>`);
+  return list.map(li => `<li><a href="/?id=${li.id}">${li.title}</a></li>`);
 };
 
 const description = ({ title, description }) => {
