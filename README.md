@@ -8,4 +8,13 @@
 
 5. 패키지 설치 (VSCode Terminal) : npm install or npm i
 
-6. 서버 실행 (VSCode Terminal) : npm run dev
+6. .env 파일 생성 및 예시
+
+```
+    DATABASE=opentutorials
+    PASSWORD=111111
+    BASE_URL=http://localhost:3000
+    PORT=3000
+```
+
+7. 서버 실행 (VSCode Terminal) : npm run dev
