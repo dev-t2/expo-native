@@ -8,7 +8,7 @@
 
 5. 패키지 설치 (VSCode Terminal) : npm install or npm i
 
-6. .env 파일 생성 및 예시
+6. '.env' 파일 생성 및 예시
 
 ```
     DATABASE=opentutorials
