@@ -47,6 +47,8 @@
 6. '.env' 파일 생성 및 예시
 
 ```
+  HOST=localhost
+  USER=root
   DATABASE=opentutorials
   PASSWORD=111111
   BASE_URL=http://localhost:3000
