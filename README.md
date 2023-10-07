@@ -2,6 +2,7 @@
 
 - [Expo](https://expo.dev)
   - [Use TypeScript](https://docs.expo.dev/guides/typescript)
+  - [Expo Router](https://docs.expo.dev/routing/introduction)
 - [ESLint](https://eslint.org)
   - [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
   - [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
