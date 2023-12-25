@@ -2,5 +2,5 @@
 
 - [Expo](https://expo.dev)
   - [Use TypeScript](https://docs.expo.dev/guides/typescript)
-- [EAS](https://expo.dev/eas)
-  - [Use EAS Update](https://docs.expo.dev/build/updates)
+- [EAS Update](https://docs.expo.dev/eas-update/introduction)
+  - [Get started](https://docs.expo.dev/eas-update/getting-started)
