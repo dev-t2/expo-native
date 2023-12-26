@@ -4,19 +4,22 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "npx expo start",
-    "android": "npx expo start --android",
-    "ios": "npx expo start --ios",
+    "android": "npx expo run:android",
+    "ios": "npx expo run:ios",
     "web": "npx expo start --web",
     "update:dev": "eas update --branch development",
     "update:prev": "eas update --branch preview"
   },
   "dependencies": {
     "expo": "~49.0.15",
+    "expo-dev-client": "~2.4.12",
+    "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
+    "expo-updates": "~0.18.18",
     "react": "18.2.0",
     "react-native": "0.72.6",
-    "expo-updates": "~0.18.18",
-    "expo-dev-client": "~2.4.12"
+    "sharp-cli": "^4.2.0",
+    "expo-system-ui": "~2.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
