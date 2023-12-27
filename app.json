@@ -12,6 +12,7 @@
       "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": ["**/*"],
+    "runtimeVersion": "1.0.0",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.devt2.exponative"
@@ -30,9 +31,6 @@
       "eas": {
         "projectId": "de958bf4-6693-4b0b-a492-f2c2089aebf3"
       }
-    },
-    "runtimeVersion": {
-      "policy": "appVersion"
     },
     "updates": {
       "url": "https://u.expo.dev/de958bf4-6693-4b0b-a492-f2c2089aebf3"
